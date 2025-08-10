@@ -1,0 +1,591 @@
+{
+    "transactions": [
+        {
+            "date": "2025-07-27",
+            "category": "Laundry",
+            "amount": 260.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-27",
+            "category": "Groceries",
+            "amount": 510.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-27",
+            "category": "Evening Meals",
+            "amount": 97.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-28",
+            "category": "Food - Methel",
+            "amount": 65.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-29",
+            "category": "Food - Methel",
+            "amount": 83.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-28",
+            "category": "Transportation",
+            "amount": 100.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-28",
+            "category": "Transportation",
+            "amount": 26.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-29",
+            "category": "Transportation",
+            "amount": 65.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-29",
+            "category": "Budget for Mom",
+            "amount": 505.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-28",
+            "category": "Pamasahe - Jeff",
+            "amount": 26.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-28",
+            "category": "Groceries",
+            "amount": 300.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-28",
+            "category": "Groceries",
+            "amount": 48.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-28",
+            "category": "Skin Care",
+            "amount": 1328.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-29",
+            "category": "Groceries",
+            "amount": 96.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-29",
+            "category": "Evening Meals",
+            "amount": 134.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-29",
+            "category": "Food - Jeffrey",
+            "amount": 51.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-30",
+            "category": "Evening Meals",
+            "amount": 102.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-30",
+            "category": "Transportation",
+            "amount": 86.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-30",
+            "category": "Water",
+            "amount": 78.0,
+            "note": "Rice",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-30",
+            "category": "Food - Methel",
+            "amount": 65.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-30",
+            "category": "Transportation",
+            "amount": 26.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-30",
+            "category": "Other expenses",
+            "amount": 78.0,
+            "note": "Donuts",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-31",
+            "category": "Transportation",
+            "amount": 86.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-31",
+            "category": "Food - Methel",
+            "amount": 65.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-31",
+            "category": "Transportation",
+            "amount": 26.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-31",
+            "category": "Food - Methel",
+            "amount": 35.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-31",
+            "category": "Food - Jeffrey",
+            "amount": 60.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-01",
+            "category": "Transportation",
+            "amount": 86.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-01",
+            "category": "Transportation",
+            "amount": 26.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-01",
+            "category": "Food - Jeffrey",
+            "amount": 60.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-01",
+            "category": "Evening Meals",
+            "amount": 120.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-31",
+            "category": "Evening Meals",
+            "amount": 102.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-01",
+            "category": "Food - Methel",
+            "amount": 65.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-31",
+            "category": "Pamasahe - Jeff",
+            "amount": 26.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-07-28",
+            "category": "Evening Meals",
+            "amount": 396.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-02",
+            "category": "Sat/Sun",
+            "amount": 118.0,
+            "note": "Morning Meals",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-02",
+            "category": "Sat/Sun",
+            "amount": 139.0,
+            "note": "Evening Meals",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-03",
+            "category": "Laundry",
+            "amount": 260.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-03",
+            "category": "Groceries",
+            "amount": 895.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-03",
+            "category": "Sat/Sun",
+            "amount": 188.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-03",
+            "category": "Sat/Sun",
+            "amount": 110.0,
+            "note": "I forgot",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-04",
+            "category": "Food - Methel",
+            "amount": 68.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-04",
+            "category": "Transportation",
+            "amount": 112.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-04",
+            "category": "Pamasahe - Jeff",
+            "amount": 52.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-04",
+            "category": "Food - Jeffrey",
+            "amount": 60.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-04",
+            "category": "Other expenses",
+            "amount": 11.0,
+            "note": "photocopy",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-05",
+            "category": "Food - Methel",
+            "amount": 88.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-05",
+            "category": "Transportation",
+            "amount": 112.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-05",
+            "category": "Food - Jeffrey",
+            "amount": 60.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-05",
+            "category": "Evening Meals",
+            "amount": 144.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-05",
+            "category": "Other expenses",
+            "amount": 26.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-06",
+            "category": "Transportation",
+            "amount": 126.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-06",
+            "category": "Food - Methel",
+            "amount": 50.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-06",
+            "category": "Other expenses",
+            "amount": 54.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-06",
+            "category": "Food - Jeffrey",
+            "amount": 60.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-06",
+            "category": "Drinking Water",
+            "amount": 30.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-06",
+            "category": "Evening Meals",
+            "amount": 130.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-06",
+            "category": "Other expenses",
+            "amount": 300.0,
+            "note": "load",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-06",
+            "category": "Other expenses",
+            "amount": 90.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-04",
+            "category": "Evening Meals",
+            "amount": 145.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-07",
+            "category": "Other expenses",
+            "amount": 82.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-07",
+            "category": "Transportation",
+            "amount": 126.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-07",
+            "category": "Evening Meals",
+            "amount": 83.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-07",
+            "category": "Food - Methel",
+            "amount": 53.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-07",
+            "category": "Food - Jeffrey",
+            "amount": 60.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-08",
+            "category": "Evening Meals",
+            "amount": 118.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-08",
+            "category": "Other expenses",
+            "amount": 176.0,
+            "note": "pizza",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-08",
+            "category": "Transportation",
+            "amount": 114.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-08",
+            "category": "Food - Jeffrey",
+            "amount": 60.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-08",
+            "category": "Other expenses",
+            "amount": 30.0,
+            "note": "turon",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-09",
+            "category": "Budget for Mom",
+            "amount": 400.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-09",
+            "category": "Groceries",
+            "amount": 566.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-09",
+            "category": "Sat/Sun",
+            "amount": 181.0,
+            "note": "",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-09",
+            "category": "Sat/Sun",
+            "amount": 52.0,
+            "note": "transpo",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-09",
+            "category": "Other expenses",
+            "amount": 360.0,
+            "note": "damit",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-08",
+            "category": "Evening Meals",
+            "amount": 83.0,
+            "note": "lugaw",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-08",
+            "category": "Other expenses",
+            "amount": 151.0,
+            "note": "sabon/bl",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-09",
+            "category": "Other expenses",
+            "amount": 150.0,
+            "note": "load",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-09",
+            "category": "Other expenses",
+            "amount": 15.0,
+            "note": "charges load",
+            "type": "Expense"
+        },
+        {
+            "date": "2025-08-09",
+            "category": "Other expenses",
+            "amount": 148.0,
+            "note": "parcel",
+            "type": "Expense"
+        }
+    ],
+    "piggy_bank": 1000.0,
+    "savings_goal": 10000.0,
+    "notes": "I made the project little by little",
+    "note_entries": [
+        {
+            "note": "HI MY PROJECT IS ONGOING",
+            "timestamp": "2025-07-27 10:39:11"
+        }
+    ],
+    "monthly_income": 13431.0,
+    "income_history": [
+        {
+            "week_start": "2025-08-04",
+            "week_end": "2025-08-10",
+            "Income": 13431.0
+        },
+        {
+            "week_start": "2025-07-21",
+            "week_end": "2025-07-27",
+            "Income": 9650
+        },
+        {
+            "week_start": "2025-07-28",
+            "week_end": "2025-08-03",
+            "Income": 11650
+        }
+    ]
+}
