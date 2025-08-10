@@ -9,21 +9,12 @@ import calendar
 from datetime import datetime, timedelta
 import datetime as dt
 
-# 🔹 Place the CSS here — right after imports
+# 🔹 Add here — before any UI layout code
 st.markdown("""
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <style>
-/* Hide the right arrow (›) from expanders */
-.streamlit-expanderHeader svg {
-    display: none !important;
-}
-
-/* Hide the double right arrow (») from selectbox and multiselect */
-.css-1aumxhk.e1fqkh3o2::before {
-    content: none !important;
-}
-
-/* Hide button icons if any */
-button > svg {
+/* Hide any element that literally contains 'keyboard_arrow_right' */
+:contains("keyboard_arrow_right") {
     display: none !important;
 }
 </style>
@@ -994,6 +985,7 @@ elif menu == "⚙️ Settings":
 elif menu == "🔓 Logout":
     st.session_state.logged_in = False
     st.rerun()
+
 
 
 
