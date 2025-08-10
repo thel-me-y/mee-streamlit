@@ -9,6 +9,27 @@ import calendar
 from datetime import datetime, timedelta
 import datetime as dt
 
+# 🔹 Place the CSS here — right after imports
+st.markdown("""
+<style>
+/* Hide the right arrow (›) from expanders */
+.streamlit-expanderHeader svg {
+    display: none !important;
+}
+
+/* Hide the double right arrow (») from selectbox and multiselect */
+.css-1aumxhk.e1fqkh3o2::before {
+    content: none !important;
+}
+
+/* Hide button icons if any */
+button > svg {
+    display: none !important;
+}
+</style>
+""", unsafe_allow_html=True)
+
+# ---- Your app code starts here ----
 
 
 if st.session_state.get("logged_in"):  # Only run after login
@@ -973,6 +994,7 @@ elif menu == "⚙️ Settings":
 elif menu == "🔓 Logout":
     st.session_state.logged_in = False
     st.rerun()
+
 
 
 
