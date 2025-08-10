@@ -285,13 +285,6 @@ menu = st.sidebar.radio("Menu", [
 ])
 
 
-        # Save to file
-        save_data(data)
-
-        st.success("Transaction history has been reset!")
-        st.rerun()
-
-
 
 if menu == "🏠 Dashboard":
     import os
@@ -347,7 +340,7 @@ if menu == "🏠 Dashboard":
         total_expense = 0.0
 
     # ---------- Edit Monthly Income ----------
-    with st.expander("💰 Edit Total Monthly Income"):
+    with st.expander(" "):
         new_income = st.number_input(
             "Enter your monthly income",
             min_value=0.0,
@@ -980,6 +973,7 @@ elif menu == "⚙️ Settings":
 elif menu == "🔓 Logout":
     st.session_state.logged_in = False
     st.rerun()
+
 
 
 
