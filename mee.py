@@ -284,10 +284,6 @@ menu = st.sidebar.radio("Menu", [
     "📊 Statistics", "🧮 Calculator", "💰 Budget", "⚙️ Settings", "🔓 Logout"
 ])
 
-# ⚠️ Reset Data Section
-with st.sidebar.expander("⚠️ Reset Data"):
-    if st.button("Reset Transaction History"):
-        data["transactions"] = []  # Clear the transaction list
 
         # Save to file
         save_data(data)
@@ -984,6 +980,7 @@ elif menu == "⚙️ Settings":
 elif menu == "🔓 Logout":
     st.session_state.logged_in = False
     st.rerun()
+
 
 
 
