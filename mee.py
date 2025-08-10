@@ -601,7 +601,7 @@ elif menu == "📝 Notes":
         if new_note.strip():
             note_data = {
                 "text": new_note.strip(),
-                "timestamp": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                "timestamp": datetime.datetime.now().strftime(" ")
             }
             notes.insert(0, note_data)
             save_notes(notes)
@@ -647,7 +647,7 @@ elif menu == "📊 Statistics":
         total_expense = df[df["type"] == "Expense"]["amount"].sum()
 
         # ---------- Edit Monthly Income ----------
-        with st.expander("💰 Edit Total Monthly Income"):
+        with st.expander(" "):
             new_income = st.number_input(
                 "Enter your monthly income",
                 min_value=0.0,
@@ -985,6 +985,7 @@ elif menu == "⚙️ Settings":
 elif menu == "🔓 Logout":
     st.session_state.logged_in = False
     st.rerun()
+
 
 
 
