@@ -512,7 +512,7 @@ elif menu == "📅 History":
         df = df.sort_values("date", ascending=False)
 
         # ---------- Filters ----------
-        with st.expander("🔍 Filter Options"):
+        with st.expander(" "):
             category_filter = st.multiselect("Filter by Category", options=df["category"].unique())
             date_range = st.date_input("Filter by Date Range", [])
 
@@ -612,7 +612,7 @@ elif menu == "📝 Notes":
     st.subheader("📚 Saved Notes")
     if notes:
         for i, note in enumerate(notes):
-            with st.expander(f"{note['timestamp']}"):
+            with st.expander(" "):
                 st.write(note["text"])
                 if st.button(f"🗑 Delete", key=f"delete_{i}"):
                     notes.pop(i)
@@ -985,6 +985,7 @@ elif menu == "⚙️ Settings":
 elif menu == "🔓 Logout":
     st.session_state.logged_in = False
     st.rerun()
+
 
 
 
