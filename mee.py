@@ -10,8 +10,6 @@ from datetime import datetime, timedelta
 import datetime as dt
 
 
-https: // github.com / thel-me-y / mee-streamlit.git
-
 if st.session_state.get("logged_in"):  # Only run after login
     st.markdown("""
         <style>
@@ -985,4 +983,5 @@ elif menu == "⚙️ Settings":
 elif menu == "🔓 Logout":
     st.session_state.logged_in = False
     st.rerun()
+
 
